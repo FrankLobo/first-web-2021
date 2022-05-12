@@ -29,7 +29,9 @@
   --colorwhite20: #A5A3A5;
   --colorwhite10: white;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 body {
   /* color:#212121; */
   background-color: #251F24;
